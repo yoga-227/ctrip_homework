@@ -30,4 +30,4 @@ npm init
 
 npm install express mongoose bcrypt cors
 
-yoga配好了
+yoga配好了aaaa
